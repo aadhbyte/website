@@ -90,18 +90,6 @@ nav a {
   color: #00509e;
 }
 
-/* CTA Button */
-.cta-button {
-  background: #0056d2;
-  color: white;
-  padding: 14px 28px;
-  border-radius: 6px;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin-top: 24px;
-}
-
 /* Scrolling Logos */
 .logos-scroll {
   display: flex;
